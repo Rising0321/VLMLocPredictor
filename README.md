@@ -74,6 +74,9 @@ VLMLocPredictor/
 ├── train/
 │   ├── stage_sft/     # Supervised Fine-Tuning
 │   └── stage_rl/      # RL-based Fine-tuning
+├── trajDataJsonsDirty/  # Training Dataset
+├── VLM/               # Training Images (upload later)
+├── roadSoftMap/       # Distance to Closet Road (upload later)
 ├── scripts/           # Training scripts
 └── utils/            # Utility functions
 ```
