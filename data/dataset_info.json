@@ -1,0 +1,194 @@
+{
+  "trajectoryClassification": {
+    "file_name": "/root/private_data/Reason-RFT/trajDataJsons/sft/chengdu/trajClassification/train-GPT.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "pointLabel": {
+    "file_name": "/root/private_data/Reason-RFT/trajDataJsonsDirty/sft/chengdu/pointLabelOne/train-GPT.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "pointLogic": {
+    "file_name": "/root/private_data/Reason-RFT/trajDataJsonsDirty/sft/chengdu/pointLabelLogic/train-GPT.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "pointLogicRome": {
+    "file_name": "/root/private_data/Reason-RFT/trajDataJsonsDirty/sft/roma/pointLabelLogic/train-GPT.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "pointLogicPorto": {
+    "file_name": "/root/private_data/Reason-RFT/trajDataJsonsDirty/sft/porto/pointLabelLogic/train-GPT.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "pointLogicSanfrancisco": {
+    "file_name": "/root/private_data/Reason-RFT/trajDataJsonsDirty/sft/sanfrancisco/pointLabelLogic/train-GPT.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "pointLabelPorto": {
+    "file_name": "/root/private_data/Reason-RFT/trajDataJsonsDirty/sft/porto/pointLabelOne/train-GPT.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "pointLabelRome": {
+    "file_name": "/root/private_data/Reason-RFT/trajDataJsonsDirty/sft/roma/pointLabelOne/train-GPT.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "pointLabelSanfrancisco": {
+    "file_name": "/root/private_data/Reason-RFT/trajDataJsonsDirty/sft/sanfrancisco/pointLabelOne/train-GPT.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "pointLabelLLM": {
+    "file_name": "/root/private_data/Reason-RFT/trajDataJsonsDirty/sft/chengdu/pointLabelLLM/train-GPT.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "pointLabelLLMPorto": {
+    "file_name": "/root/private_data/Reason-RFT/trajDataJsonsDirty/sft/porto/pointLabelLLM/train-GPT.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "pointLabelLLMRome": {
+    "file_name": "/root/private_data/Reason-RFT/trajDataJsonsDirty/sft/roma/pointLabelLLM/train-GPT.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "pointLabelLLMSanfrancisco": {
+    "file_name": "/root/private_data/Reason-RFT/trajDataJsonsDirty/sft/sanfrancisco/pointLabelLLM/train-GPT.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "pointLabel13": {
+    "file_name": "/root/private_data/Reason-RFT/trajDataJsonsDirty/sft/chengdu/pointLabel13/train-GPT.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  }
+}
