@@ -80,17 +80,3 @@ VLMLocPredictor/
 ├── scripts/           # Training scripts
 └── utils/            # Utility functions
 ```
-
-## Citation
-
-If you find this work useful in your research, please consider citing:
-
-```bibtex
-[Citation will be added after publication]
-```
-
-## Acknowledgements
-
-This project builds upon several excellent open-source projects:
-- [Reason-RFT](https://github.com/tanhuajie/Reason-RFT)
-- [Open-R1](https://github.com/huggingface/open-r1)
